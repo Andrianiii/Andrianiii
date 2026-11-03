@@ -58,7 +58,7 @@ I'm focused on turning what I learn into practical projects and continuously imp
 
 ### Show Móveis São José — Landing Page
 
-Projeto prático desenvolvido para apresentar a loja, seus produtos e ofertas em uma página web.
+Projeto prático desenvolvido para vagas de emprego da loja.
 
 - Aplicação de conhecimentos em HTML.
 - Prática de desenvolvimento e estruturação de páginas.

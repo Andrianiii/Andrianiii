@@ -62,7 +62,6 @@ Projeto prático desenvolvido para vagas de emprego da loja.
 
 - Aplicação de conhecimentos em HTML.
 - Prática de desenvolvimento e estruturação de páginas.
-- Integração de CSS e JavaScript com apoio de ferramentas de IA.
 
 ---
 
